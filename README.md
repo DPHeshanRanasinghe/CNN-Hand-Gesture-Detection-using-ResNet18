@@ -93,6 +93,5 @@ Electronic and Telecommunication Engineering Undergraduate
 - GitHub: [@DPHeshanRanasinghe](https://github.com/DPHeshanRanasinghe)
 - LinkedIn: [Heshan Ranasinghe](https://www.linkedin.com/in/heshan-ranasinghe-988b00290)
 
-
 ---
 
