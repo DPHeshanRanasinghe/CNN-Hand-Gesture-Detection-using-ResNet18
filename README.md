@@ -80,9 +80,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## Acknowledgements
 - [PyTorch](https://pytorch.org/)
-- [OpenCV](https://opencv.org/)
 - [Torchvision](https://pytorch.org/vision/stable/index.html)
-- [Shields.io](https://shields.io/)
 
 ## Author
 
